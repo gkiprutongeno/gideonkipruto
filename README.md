@@ -1,9 +1,3 @@
-/ || | ()_ __ () ___ | | ___ ___ | |
-___ | '_ | | '_ \ | |/ _ / | / _ \ / _ | / |
-) | | | | | | | || | /_ \ || () | () | _
-|/|| |||| ||/ |_||/__/ _/||/
-|/
-
 <h3 align="center">Hi there, I'm <strong>Gideon Kipruto</strong> 👋🏾</h3>
 <p align="center">A passionate Software Developer from Nairobi, Kenya 🇰🇪</p>
 
