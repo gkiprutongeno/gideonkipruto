@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 - Python • JavaScript • TypeScript  
 - React • Node.js • Django  
-- Git • Linux • PostgreSQL • Firebase
+- Git • PostgreSQL • Firebase
 
 ---
 
@@ -27,5 +27,5 @@
 
 ### 📫 Let's Connect
 - GitHub: [@gkiprutongeno](https://github.com/gkiprutongeno)
-- LinkedIn: [gidon-kipruto](https://www.linkedin.com/in/gideon-kipruto-45bb022b5/)
+- LinkedIn: [gideon-kipruto](https://www.linkedin.com/in/gideon-kipruto-45bb022b5/)
 - Email: [gideonngenoh27@gmail.com](gideonngenoh27@gmail.com) <!-- Replace this with your real email -->
